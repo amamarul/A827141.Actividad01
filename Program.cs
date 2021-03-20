@@ -7,6 +7,7 @@ namespace A827141.Actividad01
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.ReadKey();
         }
     }
 }
